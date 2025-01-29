@@ -1,1 +1,21 @@
 # Football-Analysis
+Features:-
+.Real-time Player & Ball Detection using YOLO
+.Player Tracking & Movement Analysis
+.Ball Possession Estimation
+.Automated Event Detection (Goals, Passes, Shots on Target)
+.Heatmap Generation for Player Movement
+.Video Processing & Frame-by-Frame Analysis
+
+Installation:- git clone https://github.com/your-repo/football-analyser.git
+cd football-analyser
+pip install -r requirements.txt
+
+
+Tech Stack:-
+Python – Main programming language
+YOLO – Object detection model
+Supervision – Enhancing video analytics
+OpenCV – Image processing and computer vision
+NumPy & Pandas – Data handling
+Matplotlib & Seaborn – Data visualization
