@@ -7,11 +7,6 @@ Features:-
 .Heatmap Generation for Player Movement
 .Video Processing & Frame-by-Frame Analysis
 
-Installation:- git clone https://github.com/your-repo/football-analyser.git
-cd football-analyser
-pip install -r requirements.txt
-
-
 Tech Stack:-
 Python – Main programming language
 YOLO – Object detection model
